@@ -27,4 +27,5 @@ Enhanced Productivity: Implementing automation for common tasks and questions al
 To create a customer service chatbot in the IBM Cloud, one must establish and specify intents and entities, utilize context variables and slots to control the flow of conversation and construct dialog nodes to direct interactions. 
 ![image](https://github.com/user-attachments/assets/a07e9b68-9e89-4b26-ab2e-4ae10fd120b0)
 # Thank You
-![Tobi Oyetunji 2 png](https://github.com/user-attachments/assets/f218fc40-fae0-44da-964e-0e9621cfe036)
+![Tobi Oyetunji png](https://github.com/user-attachments/assets/1af67023-4add-4255-acec-7437dc396b22)
+
